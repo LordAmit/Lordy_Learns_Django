@@ -16,7 +16,7 @@ Self Explanatory Title. I am going to use this repo to practise what I am learni
 ## Todo
 The things I am about to do are:
 
-- [ ] Part 1: Requests and responses
+- [X] Part 1: Requests and responses
 - [ ] Part 2: Models and the admin site
 - [ ] Part 3: Views and templates
 - [ ] Part 4: Forms and generic views

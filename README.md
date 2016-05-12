@@ -1,6 +1,12 @@
 # Lordy_Learns_Django
 Self Explanatory Title. I am going to use this repo to practise what I am learning from Django.
 
+## Versions
+
+- Python version 3
+- Django 1.9.6
+- [Documentation](https://docs.djangoproject.com/en/1.9/)
+
 ## Todo
 The things I am about to do are:
 
